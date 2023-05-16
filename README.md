@@ -17,4 +17,5 @@ Successivamente aggiungiamo anche il file Chinook.db dal seguente link: https://
 Poi cliccare dove troviamo questa immagine:
 
 ![image](https://github.com/Tuminho1/GUIDb/assets/116791499/1cc22b60-3905-436f-a225-b17b589558a1)
+
 Questo file poi bisogna aggiungerlo nella cartella che abbiamo già su Visual Studio che si chiama Resources
